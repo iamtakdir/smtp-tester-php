@@ -1,7 +1,7 @@
 # 📧 PHP Native SMTP Tester
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![PHP Version](https://img.shields.io/badge/PHP-%3E%3D%207.4-777BB4.svg)
+![PHP Version](https://img.shields.io/badge/PHP-%3E%3D%208.2-777BB4.svg)
 ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 ![Author](https://img.shields.io/badge/Author-iamtakdir-blue)
 
@@ -71,3 +71,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 *Made with ❤️ by iamtakdir*
+
